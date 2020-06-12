@@ -2,6 +2,4 @@
 
 const dev = 1;
 
-w gai and
-
-第二 3
+w gai and 
